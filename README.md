@@ -118,4 +118,16 @@ Step 4 — Run the App
 Note
 --------------------------------
 - Do **not** upload your real `.env` files to GitHub.  
-- Only include `.env.example` with placeholder values for reference.  
+- Only include `.env.example` with placeholder values for reference.
+
+  Screenshots
+--------------------------------
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ff900675-a6b6-4f91-8ef5-749bf9f190a9" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7e7415c1-8d53-432a-b8bf-89cbd18c6b3f" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ff447f41-9ec0-4237-82b7-e6b1cfdb832c" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5d6cb39f-3fdd-460b-b355-54b9cf15b2f0" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/264b0c88-751b-419e-b231-0da111176437" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0c469d73-d960-442e-9665-7cb21d4e0de2" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f8a58630-f007-41d5-b7a1-0db1a0dc6c2b" />
+
+
