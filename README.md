@@ -15,7 +15,6 @@ Built with React + Vite + Tailwind CSS on the frontend and Node.js + Expressjs o
 ---
 
 ## 🗂️ Folder Structure
-<img width="851" height="325" alt="image" src="https://github.com/user-attachments/assets/a496ed98-4cc3-49eb-a4b6-327db9fd4708" />
 
 Internass/
 └─ imagetool/
