@@ -16,44 +16,8 @@ Demo Video Link :- https://www.youtube.com/watch?v=CNX708gY3Dc
 
 ## 🗂️ Folder Structure
 
-Internass/
-└─ imagetool/
-├─ client/
-│ ├─ components/
-│ │ ├─ ImageArea.jsx
-│ │ ├─ LoginButton.jsx
-│ │ ├─ LogoutButton.jsx
-│ │ ├─ Navbar.jsx
-│ │ └─ SearchBar.jsx
-│ ├─ public/
-│ │ └─ vite.svg
-│ ├─ src/
-│ │ ├─ assets/
-│ │ │ └─ react.svg
-│ │ ├─ services/
-│ │ │ └─ api.js
-│ │ ├─ App.jsx
-│ │ ├─ index.css
-│ │ └─ main.jsx
-│ ├─ .env
-│ ├─ .gitignore
-│ ├─ eslint.config.js
-│ ├─ index.html
-│ ├─ package-lock.json
-│ ├─ package.json
-│ ├─ README.md
-│ └─ vite.config.js
-└─ server/
-├─ controllers/
-│ └─ searchcontroller.js
-├─ routes/
-│ └─ searchRoutes.js
-├─ .env
-├─ app.js
-├─ package-lock.json
-├─ package.json
-└─ server.js
-```
+<img width="241" height="974" alt="image" src="https://github.com/user-attachments/assets/917934ff-2364-4c98-948b-0d3c2bcfc55e" />
+
 
 
 Setup Instructions 
