@@ -18,41 +18,42 @@ Demo Video Link :- https://www.youtube.com/watch?v=CNX708gY3Dc
 
 Internass/
 └─ imagetool/
-   ├─ client/
-   │  ├─ components/
-   │  │  ├─ ImageArea.jsx
-   │  │  ├─ LoginButton.jsx
-   │  │  ├─ LogoutButton.jsx
-   │  │  ├─ Navbar.jsx
-   │  │  └─ SearchBar.jsx
-   │  ├─ public/
-   │  │  └─ vite.svg
-   │  ├─ src/
-   │  │  ├─ assets/
-   │  │  │  └─ react.svg
-   │  │  ├─ services/
-   │  │  │  └─ api.js
-   │  │  ├─ App.jsx
-   │  │  ├─ index.css
-   │  │  └─ main.jsx
-   │  ├─ .env
-   │  ├─ .gitignore
-   │  ├─ eslint.config.js
-   │  ├─ index.html
-   │  ├─ package-lock.json
-   │  ├─ package.json
-   │  ├─ README.md
-   │  └─ vite.config.js
-   └─ server/
-      ├─ controllers/
-      │  └─ searchcontroller.js
-      ├─ routes/
-      │  └─ searchRoutes.js
-      ├─ .env
-      ├─ app.js
-      ├─ package-lock.json
-      ├─ package.json
-      └─ server.js
+├─ client/
+│ ├─ components/
+│ │ ├─ ImageArea.jsx
+│ │ ├─ LoginButton.jsx
+│ │ ├─ LogoutButton.jsx
+│ │ ├─ Navbar.jsx
+│ │ └─ SearchBar.jsx
+│ ├─ public/
+│ │ └─ vite.svg
+│ ├─ src/
+│ │ ├─ assets/
+│ │ │ └─ react.svg
+│ │ ├─ services/
+│ │ │ └─ api.js
+│ │ ├─ App.jsx
+│ │ ├─ index.css
+│ │ └─ main.jsx
+│ ├─ .env
+│ ├─ .gitignore
+│ ├─ eslint.config.js
+│ ├─ index.html
+│ ├─ package-lock.json
+│ ├─ package.json
+│ ├─ README.md
+│ └─ vite.config.js
+└─ server/
+├─ controllers/
+│ └─ searchcontroller.js
+├─ routes/
+│ └─ searchRoutes.js
+├─ .env
+├─ app.js
+├─ package-lock.json
+├─ package.json
+└─ server.js
+```
 
 
 Setup Instructions 
