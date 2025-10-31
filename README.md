@@ -55,22 +55,25 @@ Internass/
       └─ server.js
 
 
-Setup Instructions (Simple Version)
+Setup Instructions 
 
 Step 1 — Clone the Project
 --------------------------------
 Run these commands in your terminal:
   git clone https://github.com/<your-username>/imagetool.git
+  
   cd imagetool
 
 
 Step 2 — Setup Backend (Server)
 --------------------------------
   cd server
+  
   npm install
 
 Create a file named `.env` inside the `server` folder and add the following:
   PORT=5000
+  
   UNSPLASH_ACCESS_KEY=your_unsplash_api_key
 
 Get your Unsplash Access Key from:
@@ -86,10 +89,12 @@ Your backend will run on:
 Step 3 — Setup Frontend (Client)
 --------------------------------
   cd ../client
+  
   npm install
 
 Create a file named `.env` inside the `client` folder and add the following:
   VITE_AUTH0_DOMAIN=your-auth0-domain.us.auth0.com
+  
   VITE_AUTH0_CLIENT_ID=your-auth0-client-id
 
 Get your Auth0 credentials from:
